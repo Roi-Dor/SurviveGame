@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+
+# Local configuration
+/local.properties
+
+# Log
+*.log
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Keystore files
+*.jks
+*.keystore
+
+# Crashlytics
+crashlytics-build.properties
+
+# Others
+.DS_Store
